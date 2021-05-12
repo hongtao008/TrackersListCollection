@@ -23,48 +23,55 @@ The more people use Tracker, the faster the BT download speed, **so please recom
 
 _The figure below shows the BT download speed after using Tracker. (ALL Tracker list)_  
 
-![BitComet](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-02.png)
-![qBittorrentEE](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-07.png)
+![BitComet](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-01.png)
+![qBittorrentEE](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-02.png)
 
-_Those who are interested can download and try **[ubuntu-20.04.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.04.1-desktop-amd64.iso.torrent)** , this resource has thousands of people worldwide to provide uploads , So most people download fast!_
+_Those who are interested can download and try **[ubuntu-20.10.torrent](https://releases.ubuntu.com/20.10/ubuntu-20.10-desktop-amd64.iso.torrent)** , this resource has thousands of people worldwide to provide uploads , So most people download fast!_
 
 ****
 
-### Updated: 2020-12-21
+### Updated: 2021-05-12
 
-_These lists are updated automatically daily **[(Update Log)](https://github.com/XIU2/TrackersListCollection/releases)** :_
+_These lists are updated every 8 hours !_
 
-> BEST Tracker list is relatively more stable, concise.  
-> ALL Tracker list is more in number and theoretically better.  
-> **The number of Tracker does not affect the operation of the BT software, so I recommend using the `ALL Tracker list` to maximize the download speed !**
-
-- **BEST Tracker list:** (110 trackers)  
+- **BEST Tracker list:** (94 trackers)  
  _**https://trackerslist.com/best.txt**_  
-- **ALL Tracker list:** (402 trackers)  
+- **ALL Tracker list:** (337 trackers)  
  _**https://trackerslist.com/all.txt**_  
-- **HTTP(S) Tracker list:** (172 trackers)  
+- **HTTP(S) Tracker list:** (155 trackers)  
  _**https://trackerslist.com/http.txt**_  
 
-> **Alternate:** Replace `trackerslist.com` with `cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master`  
+<details>
+<summary><strong><code>[Click to expand] - View alternate address</code></strong></summary>
 
 ****
 
-#### Aria2 Format Tracker:
-
-In order to facilitate adding Tracker to Aria2, I also made a Tracker list in Aria2 format. The update is consistent.
-
 - **BEST Tracker list:**  
- **_[https://trackerslist.com/best_aria2.txt](https://trackerslist.com/best_aria2.txt)_**  
+ _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/best.txt**_  
 - **ALL Tracker list:**  
- **_[https://trackerslist.com/all_aria2.txt](https://trackerslist.com/all_aria2.txt)_**  
+ _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/all.txt**_  
 - **HTTP(S) Tracker list:**  
- **_[https://trackerslist.com/http_aria2.txt](https://trackerslist.com/http_aria2.txt)_**  
+ _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/http.txt**_  
+
+</details>
 
 ****
 
 ### How to use?
 
 #### Aria2:
+
+<details>
+<summary><strong><code>[Click to expand] - View the tracker list in Aria2 format</code> </strong></summary>
+
+- **BEST Tracker list:**  
+ _**[https://trackerslist.com/best_aria2.txt](https://trackerslist.com/best_aria2.txt)**_  
+- **ALL Tracker list:**  
+ _**[https://trackerslist.com/all_aria2.txt](https://trackerslist.com/all_aria2.txt)**_  
+- **HTTP(S) Tracker list:**  
+ _**[https://trackerslist.com/http_aria2.txt](https://trackerslist.com/http_aria2.txt)**_  
+
+</details>
 
 After copying the contents of the Aria2 Format Tracker file, paste it into the `bt-tracker=` tail in the `aria2.conf` configuration file. Example:
 ``` ini
@@ -76,45 +83,44 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 #### BitComet:  
 
-> _**http://www.bitcomet.com**_
+> <small>_**http://www.bitcomet.com**_</small>
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-12.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-10.png" width="70%">
 
 ****
 
 #### qBittorrent Enhanced Edition:
 
-> _**Github: https://github.com/c0re100/qBittorrent-Enhanced-Edition**_  
-
-> Based qBittorrent, added many useful features, such as **Subscribing to Tracker URL** , you can easily use with this project.  
+> <small>_**https://github.com/c0re100/qBittorrent-Enhanced-Edition**_</small>  
+> <small>Based qBittorrent, added many useful features, such as **Subscribing to Tracker URL** , you can easily use with this project.</small>  
 
 After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-13.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-11.png" width="70%">
 
 ****
 
 #### qBittorrent:
 
-> _**https://www.qbittorrent.org**_
+> <small>_**https://www.qbittorrent.org**_</small>
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-04.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-12.png" width="70%">
 
 ****
 
 #### Motrix:
 
-> _**https://motrix.app**_
+> <small>_**https://motrix.app**_</small>
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-10.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-13.png" width="70%">
 
 ****
 
 #### Xdown:
 
-> _**https://xdown.org**_
+> <small>_**https://xdown.org**_</small>
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-08.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-14.png" width="70%">
 
 ****
 
@@ -127,7 +133,7 @@ This project brings together the following list of public trackers:
 * [https://tinytorrent.net/best-torrent-tracker-list-updated/](https://tinytorrent.net/best-torrent-tracker-list-updated/)
 * [http://www.torrenttrackerlist.com/torrent-tracker-list](http://www.torrenttrackerlist.com/torrent-tracker-list)
 * [https://github.com/DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList)
-* [https://www.yaozuopan.top/index.php/archives/1014/](https://www.yaozuopan.top/index.php/archives/1014/)
+* [https://gitee.com/harvey520/www.yaozuopan.top](https://gitee.com/harvey520/www.yaozuopan.top)
 
 Thanks for these projects!
 
@@ -135,7 +141,7 @@ Thanks for these projects!
 
 ### Contribute
 
-* Do you know more public trackers list? (E.g: ngosang/trackerslist) => [Open a new issue](https://github.com/XIU2/TrackersListCollection/issues/new)
+* Do you know more public trackers list? (E.g: ngosang/trackerslist) -> <kbd>[Open a new issue](https://github.com/XIU2/TrackersListCollection/issues/new)</kbd>
 
 ****
 
